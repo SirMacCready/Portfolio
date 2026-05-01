@@ -1,6 +1,6 @@
 export default function Home() {
   const projects = [
-    { name: "Portfolio Website", completion: 80, link: "/" },
+    { name: "Portfolio Website", completion: 100, link: "/" },
     //{ name: "French Tech Jobs Board", completion: 0, link: "#" },
     //{ name: "French Language Learning Platform", completion: 0, link: "#" },
     //{ name: "Digital Identity Verification System", completion: 0, link: "#" },
@@ -12,7 +12,7 @@ export default function Home() {
     },
     {
       name: "Government Transparency Budget Tracker",
-      completion: 0,
+      completion: 100,
       link: "#",
     },
 
