@@ -13,7 +13,7 @@ export default function Home() {
     {
       name: "Government Transparency Budget Tracker",
       completion: 100,
-      link: "#",
+      link: "https://france-transparence.vercel.app/",
     },
 
     { name: "Government Data Analyst Dashboard", completion: 0, link: "#" },
