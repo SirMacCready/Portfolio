@@ -4,11 +4,10 @@ export default function Home() {
     //{ name: "French Tech Jobs Board", completion: 0, link: "#" },
     //{ name: "French Language Learning Platform", completion: 0, link: "#" },
     //{ name: "Digital Identity Verification System", completion: 0, link: "#" },
-    { name: "Open Data Dashboard", completion: 0, link: "#" },
     {
-      name: "French Local Government Services Aggregator",
-      completion: 0,
-      link: "#",
+      name: "House terminal",
+      completion: 100,
+      link: "https://house-terminal.vercel.app/",
     },
     {
       name: "Government Transparency Budget Tracker",
@@ -16,6 +15,8 @@ export default function Home() {
       link: "https://france-transparence.vercel.app/",
     },
 
+    { name: "OCR Age Verification", completion: 10, link: "#" },
+    { name: "Open Data Dashboard", completion: 0, link: "#" },
     { name: "Government Data Analyst Dashboard", completion: 0, link: "#" },
     { name: "French Economic Trend Analyzer", completion: 0, link: "#" },
     //{ name: "French Tech Jobs Board", completion: 0, link: "#" },
@@ -26,7 +27,6 @@ export default function Home() {
     //{ name: "Docker & Kubernetes Multi-Service", completion: 0, link: "#" },
     //{ name: "CI/CD Pipeline", completion: 0, link: "#" },
     //{ name: "Web Application Vulnerability Scanner", completion: 0, link: "#" },
-    { name: "Password Security Analyzer", completion: 0, link: "#" },
     //{ name: "Encrypted File Sharing Platform", completion: 0, link: "#" },
     //{ name: "French Text Classification Model", completion: 0, link: "#" },
     // {
